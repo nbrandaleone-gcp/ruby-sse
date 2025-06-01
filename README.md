@@ -33,3 +33,5 @@ gcloud run services delete ruby-demo
 
 ### Appendix:
 - The Cloud Run [button](https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme)
+- Code based upon a set of articles written by *AppSignal*
+  - https://blog.appsignal.com/2024/11/27/server-sent-events-and-websockets-in-rack-for-ruby.html
